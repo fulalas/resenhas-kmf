@@ -1,6 +1,6 @@
 Este repositório tem como objetivo restaurar algumas das melhores críticas da época do site Cinescopio escritas pelo Kleber Mendonça Filho, hoje consagrado diretor brasileiro, conhecido por Aquarius (2016), Bacurau (2019), O Agente Secreto (2025), entre tantos outros.
 
-Na época, suas resenhas se tornaram marcantes por conta de um humor inteligente e extremamente afiado, tornando seus textos irresistíveis e inconfundíveis, hoje nostálgico por motivos óbvios.
+Na época, suas resenhas se tornaram marcantes por conta de um humor inteligente e extremamente afiado, tornando seus textos irresistíveis e inconfundíveis, hoje nostálgicos por motivos óbvios.
 
 Para aqueles que não conhecem sua escrita, o arquivo `Melhores momentos.txt` foi criado para condensar as passagens mais afiadas e divertidas.
 
