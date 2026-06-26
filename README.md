@@ -13,3 +13,5 @@ O Cinescopio originalmente se encontrava no endereço: http://cf1.uol.com.br/cin
 E um blog, criado posteriormente, se encontrava nesse endereço (hoje fora do ar): http://cinemascopio.blog.uol.com.br/
 
 O arquivo `Nao encontrados.txt` contém uma lista de filmes que não foram encontrados, mas que foram mencionados no Cinescopio ou em seus blogs. Quem conseguir encontrar essas resenhas, fique à vontade para solicitar inclusão neste repositório.
+
+As resenhas foram quase todas restauradas a partir do Web Archive, num trabalho minucioso de meses. Exemplo de link funcional: https://web.archive.org/web/20040516102413/http://cf1.uol.com.br:8000/cinemascopio/criticas.cfm
